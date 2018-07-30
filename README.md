@@ -8,6 +8,9 @@ This mock Twitter application allows users to view their chirper feed, add new '
 * `NewTweet` - Displays an empty tweet form for user to add new tweets to feed/comment
 * `TweetPage` - Displays a particular tweet and its attributes (likes, replies, reply details)
 
+![Home feed display in Chirper app](https://raw.githubusercontent.com/blitnee/chirper-app/master/src/utils/chirp-home.png)
+
+
 ## Instructions
 
 1. Download a copy of the project locally or clone the repository:
